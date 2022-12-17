@@ -1,0 +1,26 @@
+
+Dump of file LZTTP.iso
+
+  Real path:         /home/daniel/Programmation/Reverse/tp_wii/LZTTP.iso
+  ISO file size:     118240000/hex = 4699979776 = 4482 MiB
+  Scrubbed size:      44c00000/hex = 1153433600 = 1100 MiB, 24.5%, 35200*32K
+  File & disc type:  ISO/WII  &  Wii
+  Disc & part IDs:   disc=RZDP01, ticket=RZDP, tmd=RZDP, boot=RZDP01
+  Disc name:         The Legend of Zelda Twilight Princess
+  ID Region:         PAL [PAL ]
+  Region setting:    2 [Europe] / Jap=128 USA=128 ?=128 Eur=12,12,11,12,12,14 Kor=128
+  System version:    00000001-00000009 = IOS 0x09 = IOS 9
+  Partitions:             2  [encrypted, well signed]
+  Directories:          120
+  Files:               3747
+
+  1 partition table with 2 partitions:
+
+    index      type    offset ..   end off   size/hex =   size/dec =  MiB  status
+    ----------------------------------------------------------------------------------------
+     0     part.tab     40020 ..     40030         10 =         16         2 partitions
+    ----------------------------------------------------------------------------------------
+     0.0   UPDATE 1     50000 ..    260000     210000 =    2162688 =    2  enc,signed
+     0.1     DATA 0   f800000 .. 1173c0000  107bc0000 = 4424728576 = 4220  enc,signed
+    ----------------------------------------------------------------------------------------
+
